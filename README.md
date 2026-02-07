@@ -11,7 +11,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-**Versão:** 1.0.0 | **Status:** 🔴 Desativado | **Licença:**
+**Versão:** 1.0.0 | **Status:** 🔴 Desativado | **Licença:** Privada
 
 ---
 
