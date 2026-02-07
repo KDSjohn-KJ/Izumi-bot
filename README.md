@@ -458,7 +458,6 @@ Este projeto está sob licença. Veja o arquivo [LICENSE](LICENSE) para mais det
 <div align="center">
 
 ![GitHub Stars](https://img.shields.io/github/stars/KDSjohhn-KJ/izumi-bot?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/KDSjohhn-KJ/izumi-bot?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/KDSjohn-KJ/izumi-bot)
 ![GitHub License](https://img.shields.io/github/license/KDSjohhn-KJ/izumi-bot)
 
