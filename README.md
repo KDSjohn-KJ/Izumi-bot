@@ -171,8 +171,7 @@ yarn install
 # Adicione ao PATH do sistema
 
 # 4. Instalar FFmpeg (Linux)
-sudo apt update
-sudo apt install ffmpeg
+sudo apt update sudo apt install ffmpeg
 
 # 5. Configurar .env
 cp .env.example .env
@@ -184,45 +183,6 @@ npm start
 
 </details>
 
-<details>
-<summary><b>⚙️ Configuração do .env</b></summary>
-
-<br>
-
-```env
-# === CONFIGURAÇÕES DO BOT ===
-BOT_NAME=Izumi-Bot
-PREFIX=!
-OWNER_NUMBER=5511999999999  # Seu número com DDI e DDD
-OWNER_NAME=Seu Nome
-TIMEZONE=America/Sao_Paulo
-
-# === DATABASE ===
-MONGO_URI=mongodb://localhost:27017/izumibot
-# Ou use MongoDB Atlas (Cloud):
-# MONGO_URI=mongodb+srv://usuario:senha@cluster.mongodb.net/izumibot
-
-# === APIS (Opcional) ===
-OPENAI_KEY=sua_key_aqui
-GEMINI_KEY=sua_key_aqui
-WEATHER_API=sua_key_aqui
-
-# === SISTEMA ===
-AUTO_READ=false
-AUTO_TYPING=true
-SELF_MODE=false
-PUBLIC_MODE=true
-
-# === RPG ===
-MAX_INVENTORY=1000
-MAX_PARTY_SIZE=5
-MAX_GUILD_MEMBERS=50
-XP_MULTIPLIER=1.0
-GOLD_MULTIPLIER=1.0
-DROP_RATE=1.0
-```
-
-</details>
 
 <details>
 <summary><b>📲 Primeira Execução</b></summary>
@@ -418,7 +378,7 @@ izumi-bot/
 
 <br>
 
-Encontrou um bug? Use o comando `!bug` no bot ou abra uma [Issue](https://github.com/seu-usuario/izumi-bot/issues) no GitHub!
+Encontrou um bug? Use o comando `!bug` no bot ou abra uma [Issue](https://github.com/KDSjohhn-KJ/izumi-bot/issues) no GitHub!
 
 **Como reportar:**
 1. Descreva o problema
@@ -447,7 +407,7 @@ Adquira o Premium e aproveite!
 - 🎯 Comandos Premium
 - ⚡ Prioridade no suporte
 
-**Contato:** [WhatsApp](https://wa.me/seu_numero)
+**Contato:** [WhatsApp](https://wa.me/+5541996367048)
 
 </details>
 
@@ -462,8 +422,8 @@ Adquira o Premium e aproveite!
 
 Entre em contato através de:
 
-- 📱 **WhatsApp:** [Clique aqui](https://wa.me/seu_numero)
-- 💬 **Grupo do Bot:** [Entrar](https://chat.whatsapp.com/seu_link)
+- 📱 **WhatsApp:** [Clique aqui](https://wa.me/+5541996367048)
+- 💬 **Grupo do Bot:** [Entrar](https://chat.whatsapp.com/https://chat.whatsapp.com/EV30YiFCaTxFQS8LaN7yK2?mode=gi_t)
 - 🐛 **Issues:** [GitHub Issues](https://github.com/seu-usuario/izumi-bot/issues)
 - 📧 **Email:** seu-email@exemplo.com
 
@@ -497,10 +457,10 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/seu-usuario/izumi-bot?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/seu-usuario/izumi-bot?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/seu-usuario/izumi-bot)
-![GitHub License](https://img.shields.io/github/license/seu-usuario/izumi-bot)
+![GitHub Stars](https://img.shields.io/github/stars/KDSjohhn-KJ/izumi-bot?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/KDSjohhn-KJ/izumi-bot?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/KDSjohn-KJ/izumi-bot)
+![GitHub License](https://img.shields.io/github/license/KDSjohhn-KJ/izumi-bot)
 
 </div>
 
@@ -513,8 +473,8 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 ### 🌸 Criado com 💖 por [KDSjohn-KJ]
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KDSjohn-KJ)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu_numero)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_user)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/KDSjohhn-KJ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cwb._kj)
 
 </div>
 
