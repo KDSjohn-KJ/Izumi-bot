@@ -438,7 +438,7 @@ Entre em contato através de:
 
 <br>
 
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob licença. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 </details>
 
