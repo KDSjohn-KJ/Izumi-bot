@@ -49,11 +49,7 @@ Desenvolvido usando **Baileys** e **Node.js**, o Izumi oferece desde comandos ad
 | **🥳 Diversão** | Entretenimento e interações | Ship, Chance, Memes, Top5, Casal |
 | **🎮 Jogos** | Mini-games divertidos | Jogo da Velha, Quiz, Forca, Blackjack |
 | **💝 Figurinha** | Criação de stickers | Converter imagem/vídeo/gif em figurinha |
-| **🎶 Play** | Sistema de música e vídeo | YouTube, Spotify, Lyrics, Shazam |
-| **📥 Downloads** | Baixar conteúdo de várias plataformas | YouTube, Instagram, TikTok, Facebook |
-| **🎟️ Suporte** | Sistema de tickets e ajuda | Reportar bugs, sugestões, avaliações |
 | **🔱 Dono** | Comandos exclusivos do criador | Broadcast, Ban Global, Eval, Premium |
-
 </div>
 
 ---
