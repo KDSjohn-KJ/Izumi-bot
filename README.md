@@ -29,9 +29,8 @@ Desenvolvido usando **Baileys** e **Node.js**, o Izumi oferece desde comandos ad
 
 ### ✨ Por que Izumi-Bot?
 
-- 🎮 **Sistema RPG Completo** - 10 classes, dungeons infinitas, sistema de guild wars, pets e muito mais!
+- 🎮 **Sistema RPG Completo** - classes, dungeons infinitas, sistema de guilda e muito mais!
 - 🎭 **Multi-Funcional** - Mais de 150+ comandos em 9 categorias diferentes
-- 🔰 **Interface Intuitiva** - Menus interativos com botões para facilitar sua vida
 - 💎 **Sistema Premium** - Benefícios exclusivos para usuários VIP
 - 🛡️ **Proteção Avançada** - Anti-link, anti-spam, anti-flood e muito mais
 - 🌸 **Kawaii** - Interface linda e mensagens inspiradas na Izumi!
@@ -44,11 +43,10 @@ Desenvolvido usando **Baileys** e **Node.js**, o Izumi oferece desde comandos ad
 
 | 🎭 Categoria | 📝 Descrição | ⭐ Destaques |
 |:---:|:---|:---|
-| **👑 Admin** | Comandos de moderação de grupo | Ban, Kick, Antilink, Antiflood, Welcome |
-| **🧙‍♂️ RPG** | Sistema de RPG completo e imersivo | 10 Classes, PvP, Dungeons, Guilds, Pets |
+| **👑 Admin** | Comandos de moderação de grupo | Ban, Antilink, Antiflood, Welcome |
+| **🧙‍♂️ RPG** | Sistema de RPG completo e imersivo | Classes, PvP, Dungeons, Guilds, aventuras |
 | **🥳 Diversão** | Entretenimento e interações | Ship, Chance, Memes, Top5, Casal |
-| **🎮 Jogos** | Mini-games divertidos | Jogo da Velha, Quiz, Forca, Blackjack |
-| **💝 Figurinha** | Criação de stickers | Converter imagem/vídeo/gif em figurinha |
+| **🎮 Jogos** | Mini-games divertidos | Jogo da Velha, Quiz, Forca, piff-paff |
 | **🔱 Dono** | Comandos exclusivos do criador | Broadcast, Ban Global, Eval, Premium |
 </div>
 
@@ -68,17 +66,16 @@ Desenvolvido usando **Baileys** e **Node.js**, o Izumi oferece desde comandos ad
 - 💀 **Necromante** - Magia sombria e invocações
 - ⛪ **Clérigo** - Suporte e cura poderosa
 - 🪓 **Berseker** - Dano brutal sem controle
-- 🌿 **Druida** - Magia da natureza
+- ☠️ **Ceifador** - ?
 - 🎭 **Ladino** - Sorte e roubo de itens
 
 ### 🎯 Sistemas Principais
 - 📊 **100 Níveis de Progressão**
 - ⚔️ **Sistema de Combate Tático** (PvE e PvP)
-- 🏰 **6 Dungeons Épicas** (Fácil → Impossível)
+- 🏰 **Dungeons Épicas** (Fácil → Impossível)
 - 👥 **Sistema de Guilds** (Wars, Raids, Rankings)
-- 🐾 **Sistema de Pets** (Evolução, Skills, Treino)
 - 💍 **Casamento entre Players**
-- 🛠️ **Craft & Profissões** (Ferreiro, Alquimista, etc)
+- 🛠️ **Crafting & forjas**
 - 💎 **Sistema de Encantamento**
 - 📜 **Quests Épicas** (História, Diárias, Semanais)
 - 🏆 **Rankings Globais**
@@ -111,89 +108,6 @@ Você precisa ter instalado:
 
 </details>
 
-<details>
-<summary><b>📱 Instalação no Termux (Android)</b></summary>
-
-<br>
-
-```bash
-# 1. Atualizar pacotes do Termux
-pkg update && pkg upgrade
-
-# 2. Instalar dependências necessárias
-pkg install git nodejs-lts ffmpeg imagemagick yarn
-
-# 3. Clonar o repositório
-git clone https://github.com/seu-usuario/izumi-bot.git
-
-# 4. Entrar na pasta do projeto
-cd izumi-bot
-
-# 5. Instalar dependências do projeto
-npm install
-# ou
-yarn install
-
-# 6. Configurar variáveis de ambiente
-cp .env.example .env
-nano .env
-# Edite as configurações necessárias
-
-# 7. Iniciar o bot
-npm start
-```
-
-</details>
-
-<details>
-<summary><b>💻 Instalação no PC/VPS (Windows/Linux)</b></summary>
-
-<br>
-
-```bash
-# 1. Clonar o repositório
-git clone https://github.com/seu-usuario/izumi-bot.git
-
-# 2. Entrar na pasta
-cd izumi-bot
-
-# 3. Instalar dependências
-npm install
-# ou
-yarn install
-
-# 4. Instalar FFmpeg (Windows)
-# Baixe em: https://ffmpeg.org/download.html
-# Adicione ao PATH do sistema
-
-# 4. Instalar FFmpeg (Linux)
-sudo apt update sudo apt install ffmpeg
-
-# 5. Configurar .env
-cp .env.example .env
-nano .env  # ou use seu editor favorito
-
-# 6. Iniciar o bot
-npm start
-```
-
-</details>
-
-
-<details>
-<summary><b>📲 Primeira Execução</b></summary>
-
-<br>
-
-1. **Execute o bot:** `npm start`
-2. **Escaneie o QR Code** com seu WhatsApp:
-   - Abra o WhatsApp
-   - Toque em **⋮** (menu) > **Aparelhos conectados**
-   - Toque em **Conectar um aparelho**
-   - Escaneie o QR Code que apareceu no terminal
-
-3. **Pronto!** 🎉 O Izumi-Bot está online!
-
 </details>
 
 ---
@@ -214,10 +128,6 @@ npm start
 !menurpg          # Sistema RPG completo
 !menudiversao     # Entretenimento
 !menujogos        # Mini-games
-!menufigurinha    # Criar stickers
-!menuplay         # Música e vídeo
-!menudownloads    # Downloads
-!menusuporte      # Ajuda e suporte
 !menudono         # Apenas para o dono
 
 # Ajuda sobre comando específico
@@ -233,21 +143,16 @@ npm start
 
 ```bash
 # 1. Registrar-se
-!registrar
+!criar
 
 # 2. Ver seu perfil
 !perfil
 
-# 3. Escolher classe
-!classe guerreiro
-# Opções: guerreiro, mago, arqueiro, assassino, paladino,
-#         necromante, clerigo, berseker, druida, ladino
-
-# 4. Começar a aventura!
-!batalhar          # Lutar contra monstros
+# 3. Começar a aventura!
+!pve          # Lutar contra monstros
 !daily             # Recompensa diária
 !trabalhar         # Ganhar gold
-!quest             # Ver missões disponíveis
+!qdaily            # Ver missões disponíveis
 ```
 
 </details>
@@ -258,14 +163,6 @@ npm start
 <br>
 
 ```bash
-# 📥 Downloads
-!play Izumi Sagiri theme             # Baixar música
-!instagram https://instagram.com/... # Baixar post do Instagram
-!tiktok https://tiktok.com/@...      # Baixar vídeo TikTok
-
-# 💝 Figurinhas
-!sticker                             # Responder a uma imagem
-!attp Olá Mundo                      # Texto animado
 
 # 🎮 Jogos
 !quiz                                # Quiz de conhecimentos
