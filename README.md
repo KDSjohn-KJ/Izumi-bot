@@ -293,24 +293,40 @@ npm start
 **🌸 Exemplo do Menu Principal:**
 
 ```
+
 ╭═════════════════━╮
-║•⪩ 𝘿𝘼𝙏𝘼: Sábado, 01/02/2025            
-║•⪩ 𝙃𝙊𝙍𝘼: 15:30
-║•⪩ 𝙐𝙎𝙐𝘼́𝙍𝙄𝙊: @user
-║•⪩ 𝙂𝙍𝙐𝙋𝙊: Nome do Grupo
+║•⪩ 𝘿𝘼𝙏𝘼: 01/01/2020
+║•⪩ 𝙃𝙊𝙍𝘼: 12:00
+║•⪩ 𝙐𝙎𝙐𝘼́𝙍𝙄𝙊: KDSjohn-KJ
+║•⪩ 𝙂𝙍𝙐𝙋𝙊: Izumi Bot
 ┝═════════════════━╯
-║ ╭══════•⪩ 𝐌𝐄𝐍𝐔𝐒
-║ ┃⏤͟͟͞͞ ⩺👑 !𝑴𝒆𝒏𝒖 𝑨𝒅𝒎
-║ ┃⏤͟͟͞͞ ⩺🧙‍♂️ !𝑴𝒆𝒏𝒖 𝑹𝒑𝒈
-║ ┃⏤͟͟͞͞ ⩺🥳 !𝑴𝒆𝒏𝒖 𝑫𝒊𝒗𝒆𝒓𝒔𝒂̃𝒐
-║ ┃⏤͟͟͞͞ ⩺🎮 !𝑴𝒆𝒏𝒖 𝑱𝒐𝒈𝒐𝒔
-║ ┃⏤͟͟͞͞ ⩺💝 !𝑴𝒆𝒏𝒖 𝑭𝒊𝒈𝒖𝒓𝒊𝒏𝒉𝒂
-║ ┃⏤͟͟͞͞ ⩺🎶 !𝑴𝒆𝒏𝒖 𝑷𝒍𝒂𝒚
-║ ┃⏤͟͟͞͞ ⩺📥 !𝑴𝒆𝒏𝒖 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒔
-║ ┃⏤͟͟͞͞ ⩺🎟️ !𝑴𝒆𝒏𝒖 𝑺𝒖𝒑𝒐𝒓𝒕𝒆
-║ ┃⏤͟͟͞͞ ⩺🔱 !𝑴𝒆𝒏𝒖 𝑫𝒐𝒏𝒐
+║ ╭══════•⪩ _*𝐌𝐄𝐍𝐔𝐒*_
+║ ┃⏤͟͟͞͞ ⩺👑 !menuadm
+║ ┃⏤͟͟͞͞ ⩺🧙‍♂️ !menurpg
+║ ┃⏤͟͟͞͞ ⩺🥳 !menudiversao
+║ ┃⏤͟͟͞͞ ⩺🎮 !menujogos
+║ ┃⏤͟͟͞͞ ⩺🔱 !menudono
+║ ╰══════════════〢
+┝══════•⪩ 𝙋𝙍𝙀𝙁𝙄𝙓𝙊 !
+║ ╭══════•⪩ _*𝑶𝑼𝑻𝑹𝑶𝑺*_
+║ ┃⏤͟͟͞͞ ⩺⛅ !clima cidade
+║ ┃⏤͟͟͞͞ ⩺❓ !fatos
+║ ┃⏤͟͟͞͞ ⩺🏓 !ping
+║ ┃⏤͟͟͞͞ ⩺📱 !ddd
+║ ┃⏤͟͟͞͞ ⩺➕ !calculadora
+║ ┃⏤͟͟͞͞ ⩺♐ !signo
+║ ┃⏤͟͟͞͞ ⩺📊 !enquete
+║ ┃⏤͟͟͞͞ ⩺🔗 !encurtador
+║ ╰══════════════〢
+┝══════════════〢
+║ ╭══════•⪩ _*𝑬𝑿𝑻𝑹𝑨*_
+║ ┃⏤͟͟͞͞ ⩺📋 !infobot
+║ ┃⏤͟͟͞͞ ⩺⚠️ !bug
+║ ┃⏤͟͟͞͞ ⩺💡 !sugestao
 ║ ╰══════════════〢
 ╚══════════════〢
+
+💡 _Solicitado por: 𝐁𝐫𝐮𝐧𝐨 𝐊𝐨𝐫𝐭𝐞 ွဳ⃟☕_
 
 💡 Digite !ajuda <comando> para mais informações
 ```
@@ -419,9 +435,9 @@ Adquira o Premium e aproveite!
 Entre em contato através de:
 
 - 📱 **WhatsApp:** [Clique aqui](https://wa.me/+5541996367048)
-- 💬 **Grupo do Bot:** [Entrar](https://chat.whatsapp.com/https://chat.whatsapp.com/EV30YiFCaTxFQS8LaN7yK2?mode=gi_t)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/seu-usuario/izumi-bot/issues)
-- 📧 **Email:** seu-email@exemplo.com
+- 💬 **Grupo do Bot:** [Entrar](https://chat.whatsapp.com/K453PfiZvA98wrZ8bhiLvw?mode=gi_t)
+- 🐛 **Issues:** [GitHub Issues](https://github.com/KDSjohn-KJ/izumi-bot/issues)
+- 📧 **Email:** john.demesiere@gmail.com
 
 </details>
 
