@@ -358,7 +358,7 @@ Este projeto está sob licença. Veja o arquivo [LICENSE](LICENSE) para mais det
 - 🌸 **Izumi Sagiri** - Inspiração para o bot
 - 👥 **Comunidade Baileys** - Pela incrível biblioteca
 - 👨‍💻 **Equipe** - Por tornarem o projeto realidade
-- 💖 **Você** - Por usar o Izumi-Bot!
+- 💖 **Você** - Por usar a Izumi-Bot!
 
 ---
 
