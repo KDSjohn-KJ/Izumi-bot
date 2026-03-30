@@ -400,3 +400,9 @@ Este projeto está sob licença. Veja o arquivo [LICENSE](LICENSE) para mais det
 *Feito com Node.js, café e muito amor* ☕💖
 
 </div>
+
+<details>
+<summary>❗Nota Legal</summary>
+
+  Este é um projeto independente e não oficial, desenvolvido por fãs para fins de entretenimento. O nome Izumi-Bot, seu código-fonte, sistema de RPG, banco de dados e lógica de comandos são de minha autoria exclusiva. No entanto, a personagem Izumi Sagiri, seu design original e elementos do anime Eromanga Sensei são propriedades intelectuais da Kadokawa, A-1 Pictures e do autor Tsukasa Fushimi. Este bot não possui fins lucrativos e não é afiliado aos detentores dos direitos autorais.
+</details>
