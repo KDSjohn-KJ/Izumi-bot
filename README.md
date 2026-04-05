@@ -309,10 +309,8 @@ Encontrou um bug? Use o comando `!bug` no bot ou abra uma [Issue](https://github
 Adquira o Premium e aproveite!
 
 ### Benefícios:
-- ✨ Sem cooldown em comandos
 - 🎮 +15% XP e Gold no RPG
-- 📦 +20% Drop Rate
-- 🎨 Badge exclusiva
+- 🎨 Badge exclusiva no site
 - 🎯 Comandos Premium
 - ⚡ Prioridade no suporte
 
